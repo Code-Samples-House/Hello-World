@@ -30,3 +30,4 @@ Hello World!
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-FA7343?style=for-the-badge&logo=fortran&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-1BB91F?style=for-the-badge&logo=pascal&logoColor=white)
