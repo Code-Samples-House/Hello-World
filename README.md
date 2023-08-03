@@ -29,3 +29,4 @@ Hello World!
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-FA7343?style=for-the-badge&logo=fortran&logoColor=white)
