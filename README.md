@@ -35,3 +35,4 @@ Hello World!
 ![Fortran](https://img.shields.io/badge/Fortran-FA7343?style=for-the-badge&logo=fortran&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-1BB91F?style=for-the-badge&logo=pascal&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-000000?style=for-the-badge&logo=batch&logoColor=white)
